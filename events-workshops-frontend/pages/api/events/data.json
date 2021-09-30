@@ -1,0 +1,24 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "name": "Testing event and Workshop Data",
+            "slug": "testing-event-and-workshop-data",
+            "venue": "Test Hotel 1",
+            "address": "Test address 1",
+            "performer": "TEST 1",
+            "description": "Test Description1",
+            "image": "/images/sample/ecent1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Testing event and Workshop Data 2",
+            "slug": "testing-event-and-workshop-data-2",
+            "venue": "Test Hotel 2",
+            "address": "Test address 2",
+            "performer": "TEST 2",
+            "description": "Test Description 2",
+            "image": "/images/sample/ecent2.jpg"
+        }
+    ]
+}
